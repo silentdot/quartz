@@ -7,7 +7,7 @@ publish: "true"
 - [Real-Debrid: All-in-one solution](https://real-debrid.com/)
 - [Torrentio - Stremio Addon](https://torrentio.strem.fun/configure)
 ## Installation
-1. Erstelle einen - [Stremio](https://www.stremio.com/)Account und installiere es auf einem PC/Mac.
+1. Erstelle einen [Stremio](https://www.stremio.com/)Account und installiere es auf einem PC/Mac.
 2. Erstelle dir einen [Real-Debrid](https://real-debrid.com/) Account und kaufe dir Premium mit Kreditkarte oder Amazon Pay.
 3. Öffne die  [Torrentio](https://torrentio.strem.fun/configure) Seite.
 	1. **Debrid Provider:** Wähle "RealDebrid" und klicke auf das **grüne here** um deinen API Key zu kopieren und auf der Torrentio Seite einzufügen.
