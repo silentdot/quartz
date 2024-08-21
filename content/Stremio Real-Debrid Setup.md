@@ -1,6 +1,6 @@
 ---
 title: Stremio Real-Debrid Setup
-publish:
+publish: "true"
 ---
 ### Wichtige Links
 - [Stremio - Freedom to Stream](https://www.stremio.com/)
