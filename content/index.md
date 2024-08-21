@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: 🏠Home
 publish: "true"
 ---
-Das seine meine öffentlichen Notizen zu verschiedenen Themen.
+Hier finden sich Notizen zu verschiedenen Themen die mich interessieren.
+
